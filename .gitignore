@@ -1,0 +1,38 @@
+# Ignorar archivos generados por el sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de compilación
+*.class
+*.jar
+*.war
+
+# Configuraciones de IDE
+/.idea
+*.iml
+*.project
+*.classpath
+/.settings/
+
+# Eclipse
+/.metadata/
+/.recommenders/
+*.log
+/*.prefs
+
+# Archivos de log
+*.log
+
+# Directorios de salida
+/bin/
+/out/
+/build/
+/target/
+
+dist/
+
+# Otros archivos temporales
+*.tmp
+*.swp
+*.swo
+~*
